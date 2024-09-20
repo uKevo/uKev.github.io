@@ -119,27 +119,3 @@
         observeUI();
     }
 })();
-
-//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
-//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
-//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
-//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
-//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
-//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
-//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
-//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
-//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
-//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
-//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
-//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
-//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
-//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
-//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
-//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
-//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
-//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
-//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
-//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
-//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
-//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
-//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
