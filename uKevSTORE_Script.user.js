@@ -1,6 +1,8 @@
 // ==UserScript==
-// @name         uKevSTORE - Content Download
+// @name         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
 // @namespace    http://tampermonkey.net/
+// @version      0.3
+// @description  SteamDB & Steam Store & SteamUI - uKevSTORE Download Depot Manager
 // @author       uKevSTORE
 // @match        *://steamdb.info/app/*
 // @match        *://store.steampowered.com/app/*
@@ -8,8 +10,31 @@
 // @match        *://*.steamui.com/*
 // @run-at       document-end
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/uKevo/uKev.github.io/refs/heads/main/uKevSTORE_Script.txt
+// @updateURL    https://raw.githubusercontent.com/uKevo/uKev.github.io/main/uKevSTORE_Script.user.js
+// @downloadURL  https://raw.githubusercontent.com/uKevo/uKev.github.io/main/uKevSTORE_Script.user.js
 // ==/UserScript==
+
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
 
 (function() {
     'use strict';
@@ -94,3 +119,27 @@
         observeUI();
     }
 })();
+
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
+//         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
