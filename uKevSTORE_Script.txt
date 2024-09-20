@@ -8,7 +8,7 @@
 // @match        *://*.steamui.com/*
 // @run-at       document-end
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/pjy612/SteamManifestCache/data/sai.user.js
+// @updateURL    https://raw.githubusercontent.com/uKevo/uKev.github.io/refs/heads/main/uKevSTORE_Script.txt
 // ==/UserScript==
 
 (function() {
