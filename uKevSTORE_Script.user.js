@@ -4,12 +4,159 @@
 // @version      0.3
 // @description  SteamDB & Steam Store & SteamUI - uKevSTORE Download Depot Manager
 // @author       uKevSTORE
-// @match        *://steamdb.info/app/*
-// @match        *://store.steampowered.com/app/*
-// @match        *://steamui.com/*
+// @match        ://steamdb.info/app/
+// @match        ://store.steampowered.com/app/
+// @match        ://steamui.com/
 // @run-at       document-end
 // @grant        none
 // ==/UserScript==
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -195,13 +342,12 @@
         return url;
     }
 
-(function() {
     function addButtonToNav(appId) {
         const navLinks = document.querySelector('nav.app-links') || document.querySelector('div.apphub_OtherSiteInfo');
         if (!navLinks) return;
         const link = document.createElement('a');
         link.innerText = 'uKevSTORE';
-        link.href = criarPaginaHtml(appId);  // Suponho que essa função esteja definida em outro lugar
+        link.href = criarPaginaHtml(appId);
         link.className = 'btn btn-medium';
         if (navLinks.tagName === 'NAV') {
             navLinks.parentNode.insertBefore(link, navLinks);
@@ -222,7 +368,7 @@
                     const newLink = document.createElement('a');
                     newLink.name = "sai";
                     newLink.className = 'btn btn-custom ms-2';
-                    newLink.href = criarPaginaHtml(appId);  // Suponho que essa função esteja definida em outro lugar
+                    newLink.href = criarPaginaHtml(appId);
                     newLink.target = '_blank';
                     newLink.setAttribute('data-bs-toggle', 'tooltip');
                     newLink.title = 'uKevSTORE';
