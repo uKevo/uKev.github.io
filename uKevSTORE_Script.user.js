@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         uKevSTORE - DISCORD: https://discord.gg/kmME4ddFqt
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.5
 // @description  SteamDB & Steam Store & SteamUI - uKevSTORE Download Depot Manager
 // @author       uKevSTORE
 // @match        *://steamdb.info/app/*
