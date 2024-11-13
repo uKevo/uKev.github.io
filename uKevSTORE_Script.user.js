@@ -155,7 +155,7 @@
         <html lang="pt-BR">
         <head>
             <meta charset="UTF-8">
-            <meta http-equiv="refresh" content="2;url=sai://app/${appId}">
+            <meta http-equiv="refresh" content="2;url=sak://app/${appId}">
             <title>uKevSTORE</title>
             <style>
                 body {
